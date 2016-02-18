@@ -2,6 +2,7 @@ name: bookcellar
 favicon: null
 layout_spectrum: 0.5924881508108228
 typography_spectrum: 0.4780056173913181
+title: BookCellar Online
 cta:
   domain: null
   bucket: null
