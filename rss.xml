@@ -2,15 +2,20 @@
     <channel>
         <title><![CDATA[bookcellar]]></title>
         <description><![CDATA[bookcellar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bookcellar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 18:24:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 18:28:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bookcellar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <link>undefinedc3674567-4655-4304-a401-86d50ac746ed/index.html</link>
+            <title><![CDATA[Bookcellar Online]]></title>
+            <description><![CDATA[<article><h1>Bookcellar Online</h1><p>
+The Book Cellar is one of New England's largest used book dealers.  We 
+specialize in college textbooks, which you can browse and order online.
+
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4d166394-6a93-4589-ad63-3181315b426d.png"></article>]]></description>
+            <link>https://thegrid.ai/bookcellar/c3674567-4655-4304-a401-86d50ac746ed/index.html</link>
             <guid isPermaLink="false">c3674567-4655-4304-a401-86d50ac746ed</guid>
-            <pubDate>Thu, 18 Feb 2016 18:24:32 GMT</pubDate>
+            <pubDate>Thu, 18 Feb 2016 18:26:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
